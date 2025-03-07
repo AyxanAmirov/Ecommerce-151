@@ -1,0 +1,10 @@
+.sign-form {
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: 10px;
+}

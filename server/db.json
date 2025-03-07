@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": "1e62",
+      "name": "Willa James",
+      "password": "Pa$$w0rd!",
+      "email": "negaku@mailinator.com"
+    },
+    {
+      "id": "7efb",
+      "name": "Elnur",
+      "password": "elnur123",
+      "email": "elnur@gmail.com"
+    },
+    {
+      "id": "209d",
+      "name": "Benedict Harmon",
+      "password": "Pa$$w0rd!",
+      "email": "nepenip@mailinator.com"
+    },
+    {
+      "id": "4a88",
+      "name": "Jolene Gomez",
+      "password": "Pa$$w0rd!",
+      "email": "vope@mailinator.com"
+    },
+    {
+      "id": "fbbd",
+      "name": "Mari Nolan",
+      "password": "Pa$$w0rd!",
+      "email": "bovap@mailinator.com"
+    }
+  ],
+  "products": [
+    {
+        "image": "https://preview.colorlib.com/theme/electro/img/product02.png.webp",
+        "title": "product name goes here",
+        "price": "300M",
+        "category": "Electronik"
+      },
+      {
+        "image": "https://preview.colorlib.com/theme/electro/img/product04.png.webp",
+        "title": "product name goes here",
+        "price": "350M",
+        "category": "Electronik"
+      },
+      {
+        "image": "https://preview.colorlib.com/theme/electro/img/product03.png.webp",
+        "title": "product name goes here",
+        "price": "7000M",
+        "category": "Electronik"
+      },
+      {
+        "image": "https://preview.colorlib.com/theme/electro/img/product01.png.webp",
+        "title": "product name goes here",
+        "price": "3000M",
+        "category": "Electronik"
+      },
+      {
+        "image": "https://preview.colorlib.com/theme/electro/img/product05.png.webp",
+        "title": "product name goes here",
+        "price": "1400M",
+        "category": "Electronik"
+      }
+  ]
+}

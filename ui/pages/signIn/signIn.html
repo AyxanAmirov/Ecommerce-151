@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign In</title>
+    <!-- ICONS-FONTS -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- END -->
+    <!-- CSS -->
+    <link rel="stylesheet" href="../signUp/register.css">
+    <link rel="stylesheet" href="./signIn.css">
+    <link rel="stylesheet" href="../../reset-layout.css">
+    <!-- END -->
+</head>
+
+<body>
+
+    <div class="register">
+        <h1 class="heading-register">Sign In </h1>
+        <form class="sign-form" autocomplete="off" id="form">
+            <label >
+                <p>Email</p>
+
+                <input class="register-input" type="mail" placeholder="Enter Email" id="email"> 
+            </label>
+            <label >
+                <p>Password</p>
+                <input class="register-input" type="password" placeholder="********" id="password">
+            </label>
+            <div class="location-links">
+                <a href="../home/index.html" class="sign-in">Back to home</a>
+                <a href="../signUp/register.html" class="sign-in">Sign Up</a>
+            </div>
+            <button class="register-btn">Sign In</button>
+        </form>
+    </div>
+    <script src="./sign.js"></script>
+</body>
+
+</html>
